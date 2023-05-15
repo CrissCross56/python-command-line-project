@@ -1,0 +1,2 @@
+CREATE USER notes_admin WITH PASSWORD '123';
+CREATE DATABASE notes OWNER notes_admin;
